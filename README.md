@@ -17,3 +17,6 @@ Both approaches use cosine similarity. In contrast to traditional search, that o
   - fast clustering
 
 Here embeddings are also utilized to cluster based on semantic proximity.
+
+
+The notebook uses [Quora duplicate questions dataset](http://qim.fs.quoracdn.net/quora_duplicate_questions.tsv).
