@@ -1,5 +1,5 @@
 # Various unsupervised NLP techniques with DistilBERT
-Usage of BERT pre-trained model for unsupervised NLP and text clustering techniques
+Usage of BERT pre-trained model for unsupervised NLP and text clustering techniques using sentence embeddings
 
 
 This notebook illustrates the techniques for text clustering described in [SBERT.net](https://www.sbert.net/examples/applications/computing-embeddings/README.html).
